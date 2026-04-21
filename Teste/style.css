@@ -1,0 +1,32 @@
+/* Define uma fonte padrão e remove espaçamentos padrão do navegador */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Estiliza o cabeçalho */
+header {
+    background-color: #4CAF50; /* Cor de fundo */
+    color: white;              /* Cor do texto */
+    text-align: center;        /* Centraliza o texto */
+    padding: 20px;
+}
+
+/* Estiliza o conteúdo principal */
+main {
+    padding: 20px;
+}
+
+/* Estiliza cada seção */
+section {
+    margin-bottom: 20px;
+}
+
+/* Estiliza o rodapé */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
